@@ -1,1 +1,1 @@
-# odin-recipes
+<!--This project is a website to for resipes. It will have a home page with a list of different recipes with a small discription about the dish. Each recipe will have a link that will take you through the ingredients and steps to complete the dish. -->
